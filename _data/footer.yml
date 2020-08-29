@@ -1,31 +1,18 @@
 - links:
-  - name: Pricing
-    link: /pricing/
-  - name: Blog
+  - name: 博客
     link: /blog/
-  - name: About
+  - name: 关于
     link: /about/
-  - name: Contact
+  - name: 联系我们
     link: /contact/
 - links:
-  - name: Login
-    link: /
-    new_window: true
-  - name: Sign Up
-    link: /
-    new_window: true
-  - name: Docs
-    link: /
-    new_window: true
-  - name: Status
-    link: /
-    new_window: true
+  
 - links:
-  - name: Facebook
-    link: https://facebook.com/cloudcannon/
+  - name: QQ
+    link: https://qq.com
     new_window: true
-    social_icon: Facebook
-  - name: Twitter
+    social_icon: QQ
+  - name: 微信
     link: https://twitter.com/cloudcannon/
     social_icon: Twitter
     new_window: true
@@ -33,7 +20,7 @@
     link: https://youtube.com/cloudcannon/
     social_icon: YouTube
     new_window: true
-  - name: RSS
+  - name: RSS 订阅
     link: /feed.xml
     social_icon: RSS
     new_window: false
