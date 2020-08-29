@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Hydra Template
+title: 
 url: "https://proud-alligator.cloudvent.net"
 baseurl:
 google_analytics_key:
@@ -10,15 +10,15 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description: 
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: Vandiesol
+  email:kek234600@gmail.com
+  twitter: 
 social:
-  name: Hydra Template
+  name: Vandiesol
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+    - https://github.com/trust-web
 
 # -----
 # Build
@@ -91,14 +91,10 @@ exclude:
 
 social_icons:
   - Facebook
-  - Google Plus
-  - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
+  - QQ
+  - 微信
   - YouTube
-  - RSS
+  - RSS 订阅
 
 _comments:
   map: Update the map location and display settings.
